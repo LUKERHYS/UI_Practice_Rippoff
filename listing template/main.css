@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+}
+
+.green {
+  color: #00ae5f;
+}
+
+.grey {
+  color: #777;
+}
+
+.contain {
+  display: inline-flex;
+  justify-content: space-around;
+  align-items: center;
+  max-height: auto;
+}
+
+.image-pain {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+  width: 50%;
+}
+
+img {
+  max-width: 250px;
+  max-height: 200px;
+}
+
+.description-pain {
+  padding-left: 15px;
+  width: 50%;
+}
+
+.condition {
+  display: inline;
+}
+
+/*# sourceMappingURL=main.css.map */
